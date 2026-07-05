@@ -46,3 +46,7 @@ dist/**
 *.xlf
 *.nls.*.json
 *.i18n.json
+
+# Jupyter
+.ipynb_checkpoints/
+Untitled*.ipynb
